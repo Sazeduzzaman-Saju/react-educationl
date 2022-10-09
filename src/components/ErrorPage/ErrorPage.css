@@ -1,0 +1,11 @@
+.error-page {
+}
+.error-page h1 {
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.error-page p {
+  font-size: 1rem;
+  font-weight: 400;
+}

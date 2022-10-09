@@ -1,0 +1,9 @@
+.hero-bg {
+  background-image: url(../../img/Hero-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.started-btn:hover {
+  background-color: rgba(104, 18, 184, 0.658);
+  transition: 0.6s;
+}

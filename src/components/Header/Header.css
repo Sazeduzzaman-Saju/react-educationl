@@ -1,0 +1,26 @@
+.header {
+  background-color: white;
+}
+.navLinks {
+  margin-left: 1rem;
+}
+.navLinks:hover {
+  color: blueviolet;
+  cursor: pointer;
+}
+.login-btn {
+  background-color: blueviolet;
+  border-radius: 257px;
+  padding: 5px 20px;
+  color: white;
+  width: 100px;
+  height: 40px;
+}
+.login-btn:hover {
+  background-color: rgba(104, 18, 184, 0.658);
+  transition: 0.6s;
+}
+
+.active {
+  color: blueviolet;
+}

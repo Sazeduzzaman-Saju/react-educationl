@@ -1,0 +1,11 @@
+.image-column {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.image-column img {
+  height: 388px;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+}
