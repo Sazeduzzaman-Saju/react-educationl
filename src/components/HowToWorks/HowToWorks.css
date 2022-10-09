@@ -1,0 +1,14 @@
+.page-barcode {
+  height: 10rem;
+  display: flex;
+  place-content: center;
+  justify-content: center;
+  align-items: center;
+}
+.page-barcode h1 {
+  font-size: 30px;
+  font-weight: 800;
+  color: blueviolet;
+  text-transform: uppercase;
+  padding: 1rem;
+}

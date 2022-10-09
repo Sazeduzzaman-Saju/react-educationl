@@ -1,6 +1,6 @@
 import React from 'react';
 import './Support.css'
-import SuportImage from '../../../img/support.png'
+import SupportImage from '../../../img/support.png'
 
 const Support = () => {
     return (
@@ -8,7 +8,7 @@ const Support = () => {
             <section className="p-6 dark:bg-gray-800 dark:text-gray-50">
                 <div className='grid grid-cols-2 gap-4 items-center'>
                     <div className='image-column'>
-                        <img className='' src={SuportImage} alt="" />
+                        <img className='' src={SupportImage} alt="" />
                     </div>
                     <div>
                         <form class="w-full max-w-lg">

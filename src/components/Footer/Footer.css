@@ -1,3 +1,20 @@
 footer {
   background-color: blueviolet;
 }
+.call-to-action {
+  background-color: white;
+  color: black;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 20px;
+  margin-bottom: -5rem;
+}
+.blog-button {
+  padding: 10px 20px;
+  background-color: blueviolet;
+  color: white;
+  border-radius: 30px;
+}
+.blog-button:hover {
+  background-color: rgba(104, 18, 184, 0.658);
+  transition: 0.6s;
+}

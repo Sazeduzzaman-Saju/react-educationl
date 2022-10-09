@@ -13,7 +13,7 @@ const Works = () => {
                         <h2 className="text-3xl font-extrabold sm:text-4xl">How It Works</h2>
                         <p className="mt-4 text-lg dark:text-gray-400">Pellentesque viverra, leo id euismod laoreet,<br /> nunc risus molestie orci, vel faucibus quam justo id mauris.</p>
                     </div>
-                    <div className="works-items container mt-12 space-y-5 sm:space-y-0 sm:grid sm:grid-cols-2 sm:gap-x-6 sm:gap-y-12 lg:grid-cols-4 lg:gap-x-8">
+                    <div className="works-items mt-12 space-y-5 sm:space-y-0 sm:grid sm:grid-cols-2 sm:gap-x-6 sm:gap-y-12 lg:grid-cols-4 lg:gap-x-8">
                         <div className="flex flex-col">
                             <div className='works-icons'>
                                 <img src={SignUp} alt="" />
